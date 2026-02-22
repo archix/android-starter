@@ -550,6 +550,9 @@ do not mix versions across junit dependencies.
 | File longer than 300 lines | Split it |
 | Function longer than 40 lines | Extract private functions |
 | Add a new dependency without discussion | Flag it and discuss first |
+| Implement custom animation or gesture handling for standard UI patterns (ModalBottomSheet, AlertDialog, Snackbar, NavigationBar, DropdownMenu) | Use the Material 3 component directly |
+| Rebuild a Figma system component from scratch (e.g. bottom sheet with custom handle, dialog with custom shape) | Use the standard Material 3 component with styling overrides via `AppTheme` — rebuilding loses swipe-to-dismiss, scrim tap, accessibility, and animation behaviors |
+| Use `AnimatedVisibility` or custom `Modifier.pointerInput` to replicate behaviors built into Material 3 components | Use the built-in Material 3 component that already provides those behaviors |
 
 ---
 
