@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFF1C1B1F</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFF21005D</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFF332D41</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFF381E72</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFF49454F</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFF4F378B</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFF601410</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFF6200EE</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFF625B71</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFF79747E</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFF938F99</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFFB3261E</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFFBB86FC</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFFCAC4D0</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFFCCC2DC</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFFE6E1E5</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFFE7E0EC</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFFE8DEF8</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFFEADDFF</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFFF2B8B5</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFFFFFBFE</ID>
+    <ID>MagicNumber:AppColors.kt$AppColors$0xFFFFFFFF</ID>
+    <ID>MatchingDeclarationName:AppRoutes.kt$HomeRoute</ID>
+  </CurrentIssues>
+</SmellBaseline>
